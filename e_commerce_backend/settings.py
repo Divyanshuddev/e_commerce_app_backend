@@ -45,7 +45,7 @@ INSTALLED_APPS = [
 CORS_ORIGIN_ALLOW_ALL = False
 CORS_ORIGIN_WHITELIST = [
             "http://localhost:5173",
-            "https://e-commerce-app-beta-nine.vercel.app/"
+            "https://e-commerce-app-beta-nine.vercel.app"
         ]
 
 MIDDLEWARE = [
